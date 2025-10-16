@@ -1,0 +1,43 @@
+/* src/components/RecentTradesTable.css */
+.trades-table-container {
+  background-color: #1f2937;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+  overflow-x: auto ;
+}
+
+.table-title {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+}
+
+.trades-table {
+  width: 100%;
+  border-collapse: separate; 
+  border-spacing:10px 0 ;
+}
+
+.trades-table th,
+.trades-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #374151; 
+}
+
+.trades-table th {
+  color: #9ca3af;
+  font-weight: 600;
+  width: 100px;
+}
+
+.trade-win {
+  color: #10b981;
+  font-weight: 500;
+}
+
+.trade-loss {
+  color: #ef4444; 
+  font-weight: 500;
+}

@@ -1,0 +1,22 @@
+.metric-card{
+    background-color: rgb(255, 180, 180);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    color: gray;
+}
+
+.metric-title{
+    margin: 0 0 8px 0;
+    font-size: 1rem;
+    color: #031638;
+    font-weight: 500;
+}
+
+.metric-value{
+    margin: 0;
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: #000000;
+}

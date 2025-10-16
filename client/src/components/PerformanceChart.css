@@ -1,0 +1,13 @@
+.chart-container {
+  background-color: #1f2937;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.chart-title {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+  text-align: center;
+}
